@@ -2,6 +2,7 @@
 import streamlit as st
 import os
 import requests
+pip install agno
 from agno.agent import Agent
 from agno.tools.serpapi import SerpApiTools
 from agno.models.google import Gemini
