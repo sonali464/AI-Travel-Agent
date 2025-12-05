@@ -2,9 +2,7 @@
 import streamlit as st
 import os
 import requests
-
-!pip install agno
-
+!pip install agno google-search-results
 
 from agno.agent import Agent
 from agno.tools.serpapi import SerpApiTools
