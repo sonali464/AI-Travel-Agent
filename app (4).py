@@ -2,7 +2,8 @@
 import streamlit as st
 import os
 import requests
-pip install streamlit requests agno google-search-results pyngrok
+
+!pip install agno
 
 
 from agno.agent import Agent
